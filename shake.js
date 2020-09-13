@@ -15,7 +15,7 @@ function loadShakeJs() {
 
   const wrapperAttr = {
     class: 'wrapper',
-    style: 'float: left; margin: 5px; font-size: 15pt; text-align: center; position: relative;'
+    style: 'float: left; margin: 5px; position: relative;'
   };
   const wrapper = createWrapper('div', wrapperAttr, divWrapper)
 
